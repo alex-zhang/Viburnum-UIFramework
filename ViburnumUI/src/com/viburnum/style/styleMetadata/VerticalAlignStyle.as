@@ -1,0 +1,1 @@
+[Style(name="verticalAlign", type="String", enumeration="bottom,middle,top", invalidateDisplayList="true")]

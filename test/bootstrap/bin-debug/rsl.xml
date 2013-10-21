@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<rsls_queue>
+    <rsl title="framework_library" url="../../../framework/bin/library.swf" />
+    <rsls_parallel>
+        <rsl title="framework_theme" url="../../../themes/halo/bin/library.swf" />
+        <rsl title="framework_theme" url="../../../locale/zh_CN/bin/library.swf" />
+    </rsls_parallel>
+</rsls_queue>

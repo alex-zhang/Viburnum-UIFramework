@@ -1,0 +1,1 @@
+[Style(name="horizontalAlign", type="String", enumeration="left,center,right", invalidateDisplayList="true")]
